@@ -15,7 +15,7 @@ const Header = () => {
       </h1>
       <p data-aos="fade-up" data-aos-delay="1100" data-aos-duration="700">
       I’m a student specializing in IT development with a focus on{" "}
-        <span>front-end</span>  development and creating websites from the ground up.
+        <span>backend</span>  development and creating websites from the ground up.
         Currently, Right now, I’m dedicated to honing my skills, working on projects, and gaining practical experience.{" "}
       </p>
       <div
@@ -24,7 +24,7 @@ const Header = () => {
         data-aos-delay="1200"
         data-aos-duration="700"
       >
-        <a href="" target="_blank">
+        <a href="https://github.com/MrGarbouz" target="_blank">
           <button>Check out my github!</button>
         </a>
       </div>
