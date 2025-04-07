@@ -127,7 +127,7 @@ Freelancer & Company Registration Form for IT Projects & Talent.
                 </ul>
                 <div className="project_links">
                   <a
-                    href=""
+                    href="https://github.com/MrGarbouz/Freelancer---Company-Registration"
                     target="_blank"
                   >
                     <GithubIcon />
@@ -168,7 +168,7 @@ Freelancer & Company Registration Form for IT Projects & Talent.
                 </ul>
                 <div className="project_links">
                   <a
-                    href=""
+                    href="https://github.com/MrGarbouz/web_game"
                     target="_blank"
                   >
                     <GithubIcon />

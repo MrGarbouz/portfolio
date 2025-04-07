@@ -6,7 +6,7 @@ const LeftSide = () => {
     <div className="left_side_element" data-aos="fade-up" data-aos-delay="1400">
       <ul>
         <li>
-          <a href="" target="_blank">
+          <a href="https://github.com/MrGarbouz" target="_blank">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               role="img"
