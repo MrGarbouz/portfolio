@@ -8,8 +8,8 @@ const RightSide = () => {
 			data-aos-delay="1400"
 		>
 			<div className="inner">
-				<a href="mailto:mr.elharchali@gmail.com">
-					aminegarbouz01@@gmail.com
+				<a href="mailto:aminegarbouz01@gmail.com">
+					aminegarbouz01@gmail.com
 				</a>
 			</div>
 		</div>
