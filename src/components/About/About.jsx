@@ -31,7 +31,7 @@ const About = () => {
               Over the past year, I’ve focused on learning cutting-edge technologies and honing my skills.
                I’ve developed some projects that you can check out on my{" "}
                 <a
-                  href=""
+                  href="https://github.com/MrGarbouz"
                   rel="amine garbouz github"
                   target="_blank"
                 >

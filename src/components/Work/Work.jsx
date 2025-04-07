@@ -83,7 +83,7 @@ const Work = () => {
                 </ul>
                 <div className="project_links">
                   <a
-                    href=""
+                    href="https://github.com/MrGarbouz/ForumFlex"
                     target="_blank"
                   >
                     <GithubIcon />
