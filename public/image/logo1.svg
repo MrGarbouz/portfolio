@@ -1,0 +1,30 @@
+<svg
+  id="logo"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 100 100"
+>
+  <g>
+    <!-- حرف A متمركز تمامًا فالنص -->
+    <g id="A" transform="translate(50, 50)">
+      <path
+        d="M-8 15 L0 -15 L8 15 L4.5 15 L2.5 8 H-2.5 L-4.5 15 Z M-1.5 4 H1.5 L0 -5 Z"
+        fill="#64ffda"
+      />
+    </g>
+
+    <!-- الشكل السداسي الخارجي -->
+    <path
+      fill="transparent"
+      stroke="#64ffda"
+      stroke-width="5"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      d="M 50, 5
+         L 11, 27
+         L 11, 72
+         L 50, 95
+         L 89, 73
+         L 89, 28 z"
+    />
+  </g>
+</svg>
